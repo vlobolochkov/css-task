@@ -16,6 +16,7 @@
 ### Цветовая палитра:
 
 - ![#EFF6FF](https://placehold.it/15/EFF6FF/000000?text=+) `#EFF6FF` (фон)
+- ![#2A4A5C](https://placehold.it/15/2A4A5C/000000?text=+) `#2A4A5C` (базовый текст)
 - ![#284C5F](https://placehold.it/15/284C5F/000000?text=+) `#284C5F` (кнопка fb)
 - ![#0076B6](https://placehold.it/15/0076B6/000000?text=+) `#0076B6` (кнопка in)
 - ![#3698FB](https://placehold.it/15/3698FB/000000?text=+) `#3698FB`
