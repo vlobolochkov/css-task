@@ -2,6 +2,12 @@
 
 ![Template](/template.jpg)
 
+Если верстку не знаете совсем - можете приступить к изучению с нуля.
+
+### Рекомендумые редакторы кода
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+
 ### Необходимо сверстать форму со скриншота без использования каких-либо библиотек и фреймворков.
 
 - Без использования библиотек и фреймворков, минификация не нужна, JS не нужен (подсказка после Individual / Business / ... не меняется)
@@ -28,5 +34,5 @@
 
 ### Результат
 Предоставить в виде 2 ссылок
-1) Github репозиторий [Как выложить свой проект на GitHub](https://maxsite.org/page/how-to-put-your-project-on-github-com)
-2) Github Pages ([как настроить](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages)) + ссылки на репозиторий
+1) Github репозиторий - [Как выложить свой проект на GitHub](https://maxsite.org/page/how-to-put-your-project-on-github-com)
+2) Github Pages - [как настроить](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages) + ссылки на репозиторий
