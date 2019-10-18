@@ -27,4 +27,6 @@
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF`
 
 ### Результат
-Предоставить в виде ссылки на Github Pages ([как настроить](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages)) + ссылки на репозиторий
+Предоставить в виде 2 ссылок
+1) Github репозиторий [Как выложить свой проект на GitHub](https://maxsite.org/page/how-to-put-your-project-on-github-com)
+2) Github Pages ([как настроить](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages)) + ссылки на репозиторий
