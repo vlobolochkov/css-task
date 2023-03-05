@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webcore 1.2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="main">
+        <div class="main__bg">
+            <div class="main__bg__image">
+                <img src="img/logo.svg" alt="iintoo" class="main__bg__logo">
+            </div>
+        </div>
+        <div class="main__content">
+            <div class="main__content__wrapper">
+                <h1 class="main__content__wrapper__heading">Get iintoo it today</h1>
+                <p class="main__content__wrapper__paragraph">There is no charge or obligation upon registration</p>
+            </div>
+            <div class="main__content__social">
+                <button class="main__content__social__button main__content__social__button--facebook">Register with Facebook</button>
+                <button class="main__content__social__button main__content__social__button--linkedin">Register with LinkedIn</button>
+            </div>
+            <form class="main__content__form">
+                <span class="main__content__form__substrate">OR</span>
+                <fieldset class="main__content__form__textField">
+                    <div class="main__content__form__textField__wrapper">
+                        <label for="email" class="main__content__form__textField__label">Email</label>
+                        <input type="text" id="email" value="gus.goodwin@gmail.com" class="main__content__form__textField__field main__content__form__textField__field--email">
+                    </div>
+                    <div class="main__content__form__textField__wrapper">
+                        <label for="phone" class="main__content__form__textField__label">Phone</label>
+                        <input type="text" id="phone" class="main__content__form__textField__field main__content__form__textField__field--phone">
+                    </div>
+                </fieldset>
+                <div class="main__content__form__question">
+                    <h2 class="content__form__question__heading">What type of investor are you?</h2>
+                    <p class="content__form__question__paragraph">Select the type of investor you are below.</p>
+                </div>
+                <fieldset class="main__content__form__radioField">
+                    <input type="radio" id="individual" name="radiogroup" checked class="main__content__form__radioField__btn">
+                    <label for="individual" class="main__content__form__radioField__label">Individual</label>
+                    <input type="radio" id="business" name="radiogroup" class="main__content__form__radioField__btn">
+                    <label for="business" class="main__content__form__radioField__label">Business</label>
+                    <input type="radio" id="ira" name="radiogroup" class="main__content__form__radioField__btn">
+                    <label for="ira" class="main__content__form__radioField__label">IRA</label>
+                    <input type="radio" id="trust" name="radiogroup" class="main__content__form__radioField__btn">
+                    <label for="trust" class="main__content__form__radioField__label">Trust</label>
+                </fieldset>
+                <div class="main__content__form__confirmation">
+                    <p class="main__content__form__confirmation__text">I am natural person investing on my own behalf as a sole owner, joint tenant, or tenant in common.</p>
+                </div>
+                <fieldset class="main__content__form__checkboxField">
+                    <input type="checkbox" name="agree" id="agree" class="main__content__form__checkboxField__field">
+                    <label for="agree" class="main__content__form__checkboxField__label">I agree to the terms and receiving notifications from iintoo. <a href="#">View full terms</a></label>
+                </fieldset>
+                <fieldset class="main__content__form__btnField">
+                    <input type="button" value="Create Account" class="main__content__form__btnField__field">
+                </fieldset>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
